@@ -1,6 +1,9 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+author profile: true
+redirect_from: 
+  - /teaching.html
 ---
 
 ## Simon Business School, University of Rochester
