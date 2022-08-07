@@ -31,14 +31,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
+  allowedFields          : 
+  branch                 : 
+  commitMessage          : 
+  filename               : 
+  format                 : 
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  path                   : 
+  requiredFields         : 
   transforms:
     email                : "md5"
   generatedFields:
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xiaojie Li"
   avatar           : "profile.png"
-  bio              : "Fourth-Year Marketing Ph.D. Student"
-  location         : "Location"
+  bio              : "Fourth-Year Marketing Ph.D. Student \\ Simon Business School, University of Rochester"
+  location         : "Rochester, NY"
   employer         :
   pubmed           : 
   googlescholar    : 
