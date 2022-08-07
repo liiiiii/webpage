@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home Page"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xiaojie Li"
 description              : &description "Quant Marketing PhD Student"
