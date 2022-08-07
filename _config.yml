@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xiaojie Li"
 description              : &description "Quant Marketing PhD Student"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xiaojie Li"
   avatar           : "profile.png"
-  bio              : "Fourth-Year Marketing Ph.D. Student \n"
+  bio              : "Fourth-Year Marketing Ph.D. Student \nSimon Business School, University of Rochester"
   location         : "Rochester, NY"
-  employer         : "Simon Business School, University of Rochester"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :
