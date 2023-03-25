@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xiaojie Li"
 title_separator          : "-"
-name                     : &name "Xiaojie Li/About Me"
+name                     : &name "Xiaojie Li"
 description              : &description "Quant Marketing PhD Student"
 url                      : https://xiaojieli.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
