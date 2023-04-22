@@ -4,7 +4,8 @@ permalink: /research/
 author_profile: true
 ---
 
-# 　Work in Progress
+
+## 　Work in Progress
 * *“Consumers as Free Labor: The Value of Incentivization in Mitigating Imbalanced Demand”*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with Yufeng Huang and Takeaki Sunada
 
