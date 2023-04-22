@@ -8,7 +8,7 @@ redirect_from:
 
 ## Simon Business School, University of Rochester
 ### As a Lab Instructor
-- GBA424 Analytics Design and Applications (2020 Fall, 2021 Summer, 2021 Fall)
+- GBA424 Analytics Design and Applications (Ratings: 4.59/5.00 (2020 Fall); 5.00/5.00 (2021 Summer); 4.81/5.00 (2021 Fall))
 
 ### As a TA
 - MKT436R/GBA436R Predictive and Causal Analytics (2021 Summer, 2022 Fall)
