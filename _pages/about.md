@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-Welcome to my site! My name is Xiaojie Li, and I am a fourth-year Ph.D. student in Quantitative Marketing at Simon Business School, University of Rochester.
+Welcome to my site! My name is Xiaojie Li, and I am a fifth-year Ph.D. student in Quantitative Marketing at Simon Business School, University of Rochester.
