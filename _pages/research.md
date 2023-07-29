@@ -11,4 +11,5 @@ author_profile: true
 
 * *“The Neglected Visible Hand on Digital Platforms: The Role of Multi-Channel Networks”*
   * with [Yulin Hao](https://www.yulinhao.net/home)
+  * Draft available upon request
 
