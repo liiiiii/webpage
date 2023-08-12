@@ -13,10 +13,6 @@ author_profile: true
 
 * *“Do Influencers Create Content Themselves? The Role of Multi-Channel Networks in Influencer-Generated Content”*
   * with [Yulin Hao](https://www.yulinhao.net/home)
-<<<<<<< Updated upstream
   * Draft available upon request
-=======
-  * Presented at
+  * Presented at 
     * EARIE 2023 (Scheduled; Rome)
->>>>>>> Stashed changes
-
