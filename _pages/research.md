@@ -8,8 +8,15 @@ author_profile: true
 ## 　Work in Progress
 * *“Consumers as Free Labor: The Value of Incentivization in Mitigating Imbalanced Demand”*
   * with Yufeng Huang and Takeaki Sunada
+  * Presented at
+    * 2023 Marketing Science Conference (Miami)
 
-* *“The Neglected Visible Hand on Digital Platforms: The Role of Multi-Channel Networks”*
+* *“Do Influencers Create Content Themselves? The Role of Multi-Channel Networks in Influencer-Generated Content”*
   * with [Yulin Hao](https://www.yulinhao.net/home)
+<<<<<<< Updated upstream
   * Draft available upon request
+=======
+  * Presented at
+    * EARIE 2023 (Scheduled; Rome)
+>>>>>>> Stashed changes
 
