@@ -15,4 +15,4 @@ author_profile: true
   * with [Yulin Hao](https://www.yulinhao.net/home)
   * Draft available upon request
   * Presented at 
-    * EARIE 2023 (Scheduled; Rome)
+    * EARIE 2023 (Rome)
