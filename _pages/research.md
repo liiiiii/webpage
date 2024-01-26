@@ -11,7 +11,7 @@ author_profile: true
   * Presented at
     * 2023: Marketing Science Conference (Miami, FL)
 
-* *“Do Influencers Create Content Themselves? The Role of Multi-Channel Networks in Influencer-Generated Content”*
+* *“Influencing the Influencers: The Role of Influencer Agencies”*
   * with [Yulin Hao](https://www.yulinhao.net/home)
   * Draft available upon request
   * Presented at 
