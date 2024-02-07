@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Working Papers
-* *Shaping the Influencers: The Role of Multi-Channel Networks”* 
+* *“Shaping the Influencers: The Role of Multi-Channel Networks”* 
   * with [Yulin Hao](https://www.yulinhao.net/home)
   * *Submitted*
   * [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4720070)
