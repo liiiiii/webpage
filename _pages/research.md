@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## Working Papers
-* *“Influencing the Influencers: The Role of Influencer Agencies”* 
+* *Shaping the Influencers: The Role of Multi-Channel Networks”* 
   * with [Yulin Hao](https://www.yulinhao.net/home)
-  * [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4720070)
+  * [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4720070)
   * Presented at 
     * 2023: EARIE (Rome, Italy)
   
