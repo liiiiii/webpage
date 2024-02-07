@@ -7,7 +7,7 @@ author_profile: true
 ## Working Papers
 * *“Influencing the Influencers: The Role of Influencer Agencies”* 
   * with [Yulin Hao](https://www.yulinhao.net/home)
-  * Draft Coming Soon
+  * [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4720070)
   * Presented at 
     * 2023: EARIE (Rome, Italy)
   
