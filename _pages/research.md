@@ -17,7 +17,7 @@ author_profile: true
   
 ## Work in Progress
 * *“Consumers as Free Labor: The Value of Incentivization in Mitigating Imbalanced Demand”*
-  * with Yufeng Huang and Takeaki Sunada
+  * with [Yufeng Huang](https://sites.google.com/site/yufenghuangphd) and [Takeaki Sunada](https://simon.rochester.edu/faculty/takeaki-sunada)
   * Presentation:
     * 2023: Marketing Science Conference
 
