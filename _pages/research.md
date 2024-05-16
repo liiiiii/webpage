@@ -7,7 +7,7 @@ author_profile: true
 ## Working Paper
 * *“Shaping the Influencers: The Role of Multi-Channel Networks”* \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4720070)\]
   * with [Yulin Hao](https://www.yulinhao.net/home)
-  * *Revise & Resubmit at Journal of Marketing Research*
+  * *Revise & Resubmit* at ***Journal of Marketing Research***
   * Presentation: 
     * 2023: EARIE
   <details>
