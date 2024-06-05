@@ -16,7 +16,7 @@ author_profile: true
   </details>
   
 ## Work in Progress
-* *“The Value of Incentivization in Mitigating Imbalanced Demand”*
+* *“Consumer as Helping Hands: The Value of Incentives in Mitigating Demand Fluctuations under Capacity Constraints”*
   * with [Yufeng Huang](https://sites.google.com/site/yufenghuangphd) and [Takeaki Sunada](https://simon.rochester.edu/faculty/takeaki-sunada)
   * Presentation:
     * 2023: Marketing Science Conference
