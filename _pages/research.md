@@ -3,6 +3,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Job Market Paper
+Coming soon
 
 ## Working Paper
 * *“Shaping the Influencers: The Role of Multi-Channel Networks”* \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4720070)\]
@@ -20,5 +22,13 @@ author_profile: true
   * with [Yufeng Huang](https://sites.google.com/site/yufenghuangphd) and [Takeaki Sunada](https://simon.rochester.edu/faculty/takeaki-sunada)
   * Presentation:
     * 2023: Marketing Science Conference
+
+* *“Optimal Design of Credit Card Discounts: Monetizing Discount Synergy Across Products”*
+  * with [Bowen Luo](https://sites.google.com/view/bowenluo) and [Ruiqi Wu](https://sites.google.com/view/ruiqi-rachel-wu/home)
+  * Data access through collaborating with Wharton AI & Analytics for Business (AIAB)
+* *"Bargaining in New Product Launch (tentative title)"*
+  * with [Mitchell J. Lovett](https://sites.google.com/site/mitchlovettprof/) and [Bowen Luo](https://sites.google.com/view/bowenluo)
+  * Rochester IRB#00008505 (Exempted)
+  * Awaiting industry collaborator’s data collection
 
 
