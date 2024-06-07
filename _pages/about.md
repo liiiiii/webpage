@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<img style="float: right;" src="/images/profile_pic.jpg">
 
 Welcome to my site! My name is Xiaojie Li, and I am a fifth-year Ph.D. candidate in Quantitative Marketing at Simon Business School, University of Rochester, advised by Professors [Paul B. Ellickson](http://paulellickson.com/) and [Yufeng Huang](https://sites.google.com/site/yufenghuangphd).
 
