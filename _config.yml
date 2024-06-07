@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaojie Li" # <br><br/> [pronounced shee-ow jyeh]
-  avatar           : "profile_pic.jpg"
+  avatar           : #"profile_pic.jpg"
   bio              : "[pronounced she-ow jyeh]
                       <br><br/>
                       Ph.D. Candidate in Marketing
