@@ -17,3 +17,5 @@ Welcome to my site! My name is Xiaojie Li, and I am a fifth-year Ph.D. candidate
 Prior to Simon, I obtained an MSc (*with distinction*) in Economics from the London School of Economics and Political Science, and a B.S. in Mathematics and a B.A. in Economics (Honors) from Boston College.
 
 I am on the 2024-2025 academic job market.
+
+Email: xiaojie.li@simon.rochester.edu
