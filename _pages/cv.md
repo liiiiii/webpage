@@ -4,6 +4,5 @@ permalink: /cv/
 author_profile: true
 ---
 # Coming Soon
-<!---
-<embed src="https://xiaojieli.info/files/CV_Xiaojie_Li.pdf" type="application/pdf" width="600px" height="500px" />
---->
+[Curriculum Vitae (.pdf)](https://xiaojieli.info/files/XiaojieLi_CV.pdf)
+<embed src="https://xiaojieli.info/files/XiaojieLi_CV.pdf" type="application/pdf" width="600px" height="500px" />
