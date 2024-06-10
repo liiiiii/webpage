@@ -4,8 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Job Market Paper
-Coming soon
-
+* ***"Data Preferences in Firm Learning: Data Preferences in Firm Learning: Evidence from an Online Auction Platform"***
 ## Working Paper
 * ***“Shaping the Influencers: The Role of Multi-Channel Networks”*** \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4720070)\]
   * with [Yulin Hao](https://www.yulinhao.net/home)
