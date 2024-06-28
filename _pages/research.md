@@ -5,6 +5,11 @@ author_profile: true
 ---
 ## Job Market Paper
 * **"Data Preferences in Firm Learning: Evidence from an Online Auction Platform"**
+  <details>
+    <summary>Abstract</summary>
+        I examine whether firms prefer their own data over others' data when learning to enhance decision-making in a new environment. Recent government initiatives and technological advancements have enabled data sharing among firms, potentially expediting learning through broader insights from shared data. However, the benefits of data sharing become less clear if firms prefer their own data in their learning process. This paper investigates how auction houses (i.e., sellers) optimize their auction timing choices on China's largest online auction platform. Payoffs vary by hour, driven by differences in bidders' valuations and the number of residual bidders at different times. I first leverage state-of-the-art empirical auction literature to estimate how bidders' valuations change throughout the day. Then, I build and estimate a structural model of sellers' ending-hour choices that incorporates adaptive learning about the number of bidders and competition, based on both their own data and others' data. The model estimates suggest that sellers' preferences for their own data and others' data change as they gain more experience. Initially, inexperienced sellers rely heavily on others' data. This preference shifts as they accumulate experience on the platform. Specifically, at the average experience level, sellers weigh their own data at 90% compared to 10% for others' data. These findings have two implications for platforms. First, data sharing may not effectively guide sellers in choosing optimal auction ending hours, as sellers place an overall smaller weight on others' data. Second, platforms could guide new sellers to optimal ending hours early in their tenure, and this guidance can have a lasting impact. Overall, these implications suggest that platforms should play a coordinating role in helping sellers identify the best ending hours for their auctions.
+  </details>
+
 
 ## Working Paper
 * **“Shaping the Influencers: The Role of Multi-Channel Networks”** \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4720070)\]
