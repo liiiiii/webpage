@@ -16,6 +16,8 @@ Welcome to my site! My name is Xiaojie Li, and I am a Ph.D. candidate in Quantit
 
 Prior to Simon, I obtained an MSc (*with distinction*) in Economics from the London School of Economics and Political Science, and a B.S. in Mathematics and a B.A. in Economics (Honors) from Boston College.
 
+I will join the Carroll School of Management at Boston College as an Assistant Professor of Marketing in July 2025.
+
 [Curriculum Vitae](http://xiaojieli.info/files/XiaojieLi_CV.pdf)
 
 Email: xiaojie.li@simon.rochester.edu
