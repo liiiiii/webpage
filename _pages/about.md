@@ -10,7 +10,7 @@ redirect_from:
 
 ![](/images/profile_pic.jpg){: .align-right .width-half}
 
-Welcome to my site! My name is Xiaojie Li, and I am a Ph.D. candidate in Quantitative Marketing at Simon Business School, University of Rochester. I am interested in platform economy, encompassing both digital platforms and traditional offline platforms.
+Welcome to my website! My name is Xiaojie Li, and I am a Ph.D. candidate in Quantitative Marketing at Simon Business School, University of Rochester. I am interested in platform economy, including both digital platforms and traditional offline platforms.
 
 <!-- advised by Professors [Paul B. Ellickson](http://paulellickson.com/) and [Yufeng Huang](https://sites.google.com/site/yufenghuangphd). -->
 
