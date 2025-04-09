@@ -9,8 +9,8 @@ author_profile: true
   <details>
     <summary>Presentations</summary>
     <ul>
-      <li> 2025: IIOC (Rising Star Session, scheduled)
-      <li> 2024: Fordham University, Boston College, the Chinese University of Hong Kong - Shenzhen, Tongji University, Shanghai University of Finance and Economics, Shanghai Jiao Tong University, the University of Hong Kong, the University of New South Wales
+      <li> 2025: IIOC (Rising Star Session, scheduled) </li>
+      <li> 2024: Fordham University, Boston College, the Chinese University of Hong Kong - Shenzhen, Tongji University, Shanghai University of Finance and Economics, Shanghai Jiao Tong University, the University of Hong Kong, the University of New South Wales </li>
     </ul>
   </details>
 
@@ -25,8 +25,8 @@ author_profile: true
   <details>
     <summary>Presentations</summary>
     <ul>
-      <li> 2025: Marketing Science Conference (scheduled)
-      <li> 2023: EARIE
+      <li> 2025: Marketing Science Conference (scheduled) </li>
+      <li> 2023: EARIE </li>
     </ul>
   </details>
 
