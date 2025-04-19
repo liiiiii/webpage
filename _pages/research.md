@@ -6,7 +6,7 @@ author_profile: true
 
 ## Working Paper
 * **"Data Preferences in Firm Learning: Evidence from an Online Auction Platform" (JMP)**
-  - Draft available upon request
+  * Draft available upon request
   <details>
     <summary>Presentations</summary>
     <ul>
