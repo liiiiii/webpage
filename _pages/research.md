@@ -10,7 +10,7 @@ author_profile: true
   <details>
     <summary>Presentations</summary>
     <ul>
-      <li> 2025: IIOC (Rising Star Session, scheduled) </li>
+      <li> 2025: IIOC (Rising Star Session) </li>
       <li> 2024: Fordham University, Boston College, the Chinese University of Hong Kong - Shenzhen, Tongji University, Shanghai University of Finance and Economics, Shanghai Jiao Tong University, the University of Hong Kong, the University of New South Wales </li>
     </ul>
   </details>
