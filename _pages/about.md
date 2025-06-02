@@ -20,4 +20,4 @@ I will join the Carroll School of Management at Boston College as an Assistant P
 
 [Curriculum Vitae](http://xiaojieli.info/files/XiaojieLi_CV.pdf)
 
-Email: xiaojie.li@simon.rochester.edu
+Email: xiaojie.li@bc.edu
