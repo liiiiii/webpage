@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/profile_pic.jpg){: .align-right .width-half}
+![](/images/profile_pic.jpg){: .align-right .width-quarter}
 
 Welcome to my website! My name is Xiaojie Li, and I am a Ph.D. candidate in Quantitative Marketing at Simon Business School, University of Rochester. I am interested in platform economy, including both digital platforms and traditional offline platforms.
 
