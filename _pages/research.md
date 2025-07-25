@@ -26,7 +26,7 @@ author_profile: true
   <details>
     <summary>Presentations</summary>
     <ul>
-      <li> 2025: Marketing Science Conference (scheduled) </li>
+      <li> 2025: Marketing Science Conference </li>
       <li> 2023: EARIE </li>
     </ul>
   </details>
