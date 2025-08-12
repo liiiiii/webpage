@@ -81,12 +81,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaojie Li" # <br><br/> [pronounced shee-ow jyeh]
+  name             : "Xiaojie Li" #  [pronounced shee-ow jyeh]
   #avatar           : #"profile_pic.jpg"
-  bio              : "[pronounced she-ow jyeh]
+  bio              : "First name pronounced as 
                       <br><br/>
-                      Assistant Professor of Marketing
-                      Carroll School of Management, Boston College"
+                      [she-ow jyeh]"
   location         : 
   employer         : 
   pubmed           : 
