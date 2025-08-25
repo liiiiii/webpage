@@ -18,4 +18,6 @@ I hold a Ph.D. in Marketing from Simon Business School, University of Rochester,
 
 [Curriculum Vitae](http://xiaojieli.info/files/XiaojieLi_CV.pdf)
 
+I am currently recruiting Research Assistants at Boston College. If you are interested, please email your CV and transcript to xiaojie.li@bc.edu.
+
 Email: xiaojie.li@bc.edu
