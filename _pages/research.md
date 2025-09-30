@@ -10,7 +10,7 @@ author_profile: true
   <details>
     <summary>Presentations</summary>
     <ul>
-      <li> 2025: IIOC (Rising Star Session), China-India Insights Conference (Scheduled)</li>
+      <li> 2025: IIOC (Rising Star Session), China-India Insights Conference (Plenary Session)</li>
       <li> 2024: Fordham University, Boston College, the Chinese University of Hong Kong - Shenzhen, Tongji University, Shanghai University of Finance and Economics, Shanghai Jiao Tong University, the University of Hong Kong, the University of New South Wales </li>
     </ul>
   </details>
@@ -37,12 +37,12 @@ author_profile: true
   </details>
   
 ## Work in Progress
-* **“Consumer as Helping Hands: The Value of Incentives in Mitigating Demand Fluctuations under Capacity Constraints”**
+* **“Spatial Matching Frictions and User Incentives in Urban Mobility Networks”**
   * with [Yufeng Huang](https://sites.google.com/site/yufenghuangphd) and [Takeaki Sunada](https://simon.rochester.edu/faculty/takeaki-sunada)
   * Presentation:
     * 2023: Marketing Science Conference
 
-* **“Optimal Design of Credit Card Discounts: Monetizing Discount Synergy Across Products”**
+* **“Discount Design of Store Credit Cards”**
   * with [Bowen Luo](https://sites.google.com/view/bowenluo) and [Ruiqi Wu](https://sites.google.com/view/ruiqi-rachel-wu/home)
   * Data access through collaborating with Wharton AI & Analytics for Business (AIAB)
   
