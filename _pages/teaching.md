@@ -5,6 +5,10 @@ author profile: true
 redirect_from: 
   - /teaching.html
 ---
+## Carroll School of Management, Boston College
+### As an Instructor
+- MKTG102 Marketing Principles (Spring 2026)
+
 
 ## Simon Business School, University of Rochester
 ### As a Lab Instructor
