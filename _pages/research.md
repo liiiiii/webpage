@@ -8,9 +8,9 @@ author_profile: true
 * **"Data Preferences in Firm Learning: Evidence from an Online Auction Platform" (JMP)**
   * Draft available upon request
   <details>
-    <summary>Presentations</summary>
+    <summary>Presentations (*: Scheduled)</summary>
     <ul>
-      <li> 2026: BIOMS, TPM</li>
+      <li> 2026: BIOMS*, TPM*</li>
       <li> 2025: IIOC (Rising Star Session), China-India Insights Conference (Plenary Session)</li>
       <li> 2024: Fordham University, Boston College, the Chinese University of Hong Kong - Shenzhen, Tongji University, Shanghai University of Finance and Economics, Shanghai Jiao Tong University, the University of Hong Kong, the University of New South Wales </li>
     </ul>
