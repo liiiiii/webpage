@@ -10,7 +10,7 @@ author_profile: true
   <details>
     <summary>Presentations (*: Scheduled)</summary>
     <ul>
-      <li> 2026: BIOMS*, TPM*</li>
+      <li> 2026: BIOMS*, TPM*， Marketing Science Conference*</li>
       <li> 2025: IIOC (Rising Star Session), China-India Insights Conference (Plenary Session)</li>
       <li> 2024: Fordham University, Boston College, the Chinese University of Hong Kong - Shenzhen, Tongji University, Shanghai University of Finance and Economics, Shanghai Jiao Tong University, the University of Hong Kong, the University of New South Wales </li>
     </ul>
@@ -47,9 +47,9 @@ author_profile: true
   * with [Bowen Luo](https://sites.google.com/view/bowenluo) and [Ruiqi Wu](https://sites.google.com/view/ruiqi-rachel-wu/home)
   * Data access through collaborating with Wharton AI & Analytics for Business (AIAB)
   
-* **"Bargaining in New Product Launch (tentative title)"**
+<!-- * **"Bargaining in New Product Launch (tentative title)"**
   * with [Mitchell J. Lovett](https://sites.google.com/site/mitchlovettprof/) and [Bowen Luo](https://sites.google.com/view/bowenluo)
   * Rochester IRB#00008505 (Exempted)
-  * Awaiting industry collaborator’s data collection
+  * Awaiting industry collaborator’s data collection -->
 
 
