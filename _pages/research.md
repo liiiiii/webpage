@@ -10,7 +10,7 @@ author_profile: true
   <details>
     <summary>Presentations (*: Scheduled)</summary>
     <ul>
-      <li> 2026: BIOMS*, TPM*, Marketing Science Conference*</li>
+      <li> 2026: BIOMS*, TPM*, Marketing Science Conference*, EMAC*</li>
       <li> 2025: IIOC (Rising Star Session), China-India Insights Conference (Plenary Session)</li>
       <li> 2024: Fordham University, Boston College, the Chinese University of Hong Kong - Shenzhen, Tongji University, Shanghai University of Finance and Economics, Shanghai Jiao Tong University, the University of Hong Kong, the University of New South Wales </li>
     </ul>
@@ -25,7 +25,7 @@ author_profile: true
   * with [Yulin Hao](https://www.yulinhao.net/home)
   * *Revise & Resubmit* at ***Journal of Marketing Research***
   <details>
-    <summary>Presentations</summary>
+    <summary>Presentations (*: Scheduled)</summary>
     <ul>
       <li> 2025: Marketing Science Conference </li>
       <li> 2023: EARIE </li>
