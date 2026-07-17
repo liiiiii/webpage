@@ -37,14 +37,14 @@ author_profile: true
   </details>
   
 ## Work in Progress
+* **“Do Store Credit Card Discounts Pay Off?”**
+  * with [Bowen Luo](https://sites.google.com/view/bowenluo) and [Ruiqi Wu](https://sites.google.com/view/ruiqi-rachel-wu/home)
+  * Data access through collaborating with Wharton AI & Analytics for Business (AIAB)
+  
 * **“Spatial Matching Frictions and User Incentives in Urban Mobility Networks”**
   * with [Yufeng Huang](https://sites.google.com/site/yufenghuangphd) and [Takeaki Sunada](https://simon.rochester.edu/faculty/takeaki-sunada)
   * Presentation:
     * 2023: Marketing Science Conference
-
-* **“Do Store Credit Card Discounts Pay Off?”**
-  * with [Bowen Luo](https://sites.google.com/view/bowenluo) and [Ruiqi Wu](https://sites.google.com/view/ruiqi-rachel-wu/home)
-  * Data access through collaborating with Wharton AI & Analytics for Business (AIAB)
   
 <!-- * **"Bargaining in New Product Launch (tentative title)"**
   * with [Mitchell J. Lovett](https://sites.google.com/site/mitchlovettprof/) and [Bowen Luo](https://sites.google.com/view/bowenluo)
