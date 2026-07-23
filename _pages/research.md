@@ -26,7 +26,7 @@ author_profile: true
   <details>
     <summary>Presentations (*: Scheduled)</summary>
     <ul>
-      <li> 2026: China-India Insights Conference*
+      <li> 2026: China-India Insights Conference* </li>
       <li> 2025: Marketing Science Conference </li>
       <li> 2023: EARIE </li>
     </ul>
