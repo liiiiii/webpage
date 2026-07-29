@@ -53,7 +53,7 @@ author_profile: true
     * 2023: Marketing Science Conference
 
 * **“The Value of Intermediation in the Creator Economy: A Three-Sided Matching Model”**
-  * with [Liang Zhao](sites.google.com/view/liang-zhao-mkt) and [Yulin Hao](https://www.yulinhao.net/home)
+  * with [Liang Zhao](https://sites.google.com/view/liang-zhao-mkt) and [Yulin Hao](https://www.yulinhao.net/home)
   
 <!-- * **"Bargaining in New Product Launch (tentative title)"**
   * with [Mitchell J. Lovett](https://sites.google.com/site/mitchlovettprof/) and [Bowen Luo](https://sites.google.com/view/bowenluo)
