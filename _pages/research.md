@@ -39,7 +39,7 @@ author_profile: true
 
 * **“Do Store Credit Card Discounts Pay Off?”** \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7182919)\]
   * with [Bowen Luo](https://sites.google.com/view/bowenluo) and [Ruiqi Wu](https://sites.google.com/view/ruiqi-rachel-wu/home)
-  * *Submitted*
+  * *Under Review*
   * Data access through collaborating with Wharton AI & Analytics for Business (AIAB)
   <details>
     <summary>Abstract</summary>
